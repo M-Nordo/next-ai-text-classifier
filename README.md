@@ -35,6 +35,12 @@ life: 60.63%
 literature: 31.68%
 hope: 7.69%
 
+---
+
+![Screenshot_2](https://github.com/user-attachments/assets/ffd1b554-fa37-4d42-ad21-47e325101b71)
+
+---
+
 ## 🧪 Örnek Kullanım
 
 ### Girdi:
@@ -48,10 +54,15 @@ hayat: 60.63%
 edebiyat: 31.68%
 umut: 7.69%
 
-## 🛠️ Kurulum / Installation
+---
+
+![Screenshot_1](https://github.com/user-attachments/assets/4e5ccdfa-9869-48b6-9393-cef1271bb6b5)
+
+---
+## 🛠️ Installation / Kurulum
 
 ```bash
-git clone https://github.com/m-nordo/next-ai-text-classifier.git
+git clone https://github.com/M-Nordo/next-ai-text-classifier.git
 cd next-ai-text-classifier
 npm install
 ```
